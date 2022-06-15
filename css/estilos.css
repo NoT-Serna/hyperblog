@@ -16,13 +16,6 @@ body
     padding: 0.5em;
 }
 
-#cabecera #tagline
-{   
-    padding: 1em 0 0 0;
-    font-weight: normal;
-    font-size: 0.8em;
-}
-
 #container
 {
     width: 70%;
@@ -37,8 +30,3 @@ body
     font-size: 20px;
 }
 
-#post
-{
-    padding: 1em;
-
-}

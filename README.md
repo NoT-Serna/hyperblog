@@ -10,4 +10,5 @@ Ya me pueden incluir en sus trabajos, tengo conocimientos de:
 - HTML & CSS
 > *Se inglés también por cierto*
 
-##Todavía soy novato pero ahi voy :D
+Todavía soy novato pero ahi voy :D
+Programador en curso

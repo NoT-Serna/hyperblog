@@ -8,7 +8,8 @@ Ya me pueden incluir en sus trabajos, tengo conocimientos de:
 - C++
 - Git, Github
 - HTML & CSS
+- Ciberseguridad "En progreso"
 > *Se inglés también por cierto*
 
 Todavía soy novato pero ahi voy :D
-Programador en curso
+Programador en curso n
